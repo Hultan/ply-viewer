@@ -7,5 +7,6 @@ A viewer for the PLY 3D-object format.
 # LINKS
 
 A real 3D mesh viewer : https://www.meshlab.net/#download
+Some free PLY files : https://www.artec3d.com/3d-models/ply
 
 # TODO
