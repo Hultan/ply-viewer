@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ply-viewer" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="ply-viewer" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <package value="ply-viewer" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/ply-viewer/main.go" />
+    <output_directory value="$PROJECT_DIR$/build" />
+    <method v="2" />
+  </configuration>
+</component>
