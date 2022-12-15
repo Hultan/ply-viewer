@@ -94,7 +94,7 @@ func (m *MainForm) OpenMainForm(app *gtk.Application) {
 	// Show the main window
 	m.Window.ShowAll()
 
-	err = object.Load("/home/per/code/ply-viewer/data/dragon.ply")
+	err = object.Load("/home/per/temp/dragon.ply")
 	if err != nil {
 		panic(err)
 	}
